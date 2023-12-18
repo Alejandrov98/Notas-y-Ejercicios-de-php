@@ -1,0 +1,10 @@
+<?php
+
+//ciclo for, igual que js
+
+for ($i = 0; $i <= 10; $i++) {    
+echo "Numero ". $i. "<br/>";
+
+}
+
+?>
